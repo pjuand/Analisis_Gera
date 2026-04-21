@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.streamlit/
+logs/
+data/
+!data/.keep
+models/
+!models/.keep
+*.log

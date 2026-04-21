@@ -5,12 +5,13 @@ __pycache__/
 .env
 .streamlit/
 logs/
-data/
+data/*
 !data/.keep
 !data/*.csv
 !data/*.xlsx
-models/
+models/*
 !models/.keep
 !models/*.joblib
+
 
 *.log
